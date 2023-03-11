@@ -2,6 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Developer
 .vscode
 .vs
 *.VC.db
@@ -12,3 +13,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+/.idea/.idea.UnrealGrpcDemo/.idea/.gitignore
+/.idea/.idea.UnrealGrpcDemo/.idea/encodings.xml
+/.idea/.idea.UnrealGrpcDemo/.idea/indexLayout.xml
+/.idea/.idea.UnrealGrpcDemo/.idea/vcs.xml
+/.vsconfig

@@ -1,0 +1,3 @@
+[submodule "Plugins/UnrealGrpc"]
+	path = Plugins/UnrealGrpc
+	url = https://github.com/hazuki-jun/UnrealGrpc.git
